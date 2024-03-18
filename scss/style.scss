@@ -16,8 +16,8 @@ $color-dark: #26282b;
 
 /*
 
-@Author: Themezinho
-@URL: http://www.themezinho.net
+@Author: pro4living
+@URL: http://www.pro4living.net
  
 This file contains the styling for the actual theme, this
 is the file you need to edit to change the look of the
@@ -584,7 +584,7 @@ button[type="submit"]{ height: 54px; border: none; background: $color-brown; col
 		figcaption{display: inline-block;
 		h4{ display: block; font-size: 30px; @include second-font; margin-bottom: 15px;
 			span{color:$color-brown;}}
-			small{display: block; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 40px; opacity: 0.5;
+			small{display: block; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 40px;  margin-left: 20px; opacity: 0.5;
 		&:after{content: ""; width: 50px; height: 1px; background: $color-dark; display: inline-block; margin-left: 10px; margin-bottom: 4px; opacity: 0.5;}}
 			ul{display: block; margin: 0; padding: 0;
 				li{display: inline-block; margin: 0; margin-right: 15px; padding: 0; list-style: none;
